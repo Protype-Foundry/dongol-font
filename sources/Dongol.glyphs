@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2019 by abdo mohamed and Ibrahim Hamdi. All rights reserved.";
+copyright = "Copyright (c) 2019, Protype Foundry";
 customParameters = (
 {
 name = "Family Alignment Zones";
@@ -21,11 +21,11 @@ value = (
 },
 {
 name = license;
-value = "free for use for more info: abdomohamedart@gmail.com\012";
+value = "SIL Open Font License v1.1";
 }
 );
 date = "2019-11-02 22:07:50 +0000";
-designer = "abdo mohamed and Ibrahim Hamdi";
+designer = "Abdo Mohamed and Ibrahim Hamdi";
 designerURL = behance.net/abdo_mohamed;
 familyName = Dongol;
 featurePrefixes = (
@@ -52693,8 +52693,8 @@ y = -31;
 };
 };
 };
-manufacturer = protype;
-manufacturerURL = www.behance.net/Protype;
+manufacturer = "Protype Foundry";
+manufacturerURL = "https://github.com/Protype-Foundry";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
