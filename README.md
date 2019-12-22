@@ -3,3 +3,4 @@
 
 ![Sample](sample.svg)
 ![Comic](comic-sample.jpg)
+![Comic](sample2.jpg)
