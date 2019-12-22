@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019, Protype Foundry";
+copyright = "Copyright 2019 The Dongol Project Authors (https://github.com/Protype-Foundry/dongol-font)";
 customParameters = (
 {
 name = "Family Alignment Zones";
@@ -21,7 +21,20 @@ value = (
 },
 {
 name = license;
-value = "SIL Open Font License v1.1";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = PRTP;
 }
 );
 date = "2019-11-02 22:07:50 +0000";
@@ -37563,6 +37576,95 @@ note = threesuperior;
 unicode = 00B3;
 },
 {
+glyphname = foursuperior;
+lastChange = "2019-12-22 14:04:42 +0000";
+layers = (
+{
+layerId = "F775FF55-200A-4C1E-99C8-011CF6498227";
+paths = (
+{
+closed = 1;
+nodes = (
+"151 376 OFFCURVE",
+"159 386 OFFCURVE",
+"165 406 CURVE",
+"167 419 OFFCURVE",
+"169 433 OFFCURVE",
+"172 447 CURVE",
+"213 444 OFFCURVE",
+"233 451 OFFCURVE",
+"233 466 CURVE",
+"233 466 LINE",
+"233 478 OFFCURVE",
+"223 484 OFFCURVE",
+"203 484 CURVE SMOOTH",
+"200 484 OFFCURVE",
+"197 484 OFFCURVE",
+"192 484 CURVE SMOOTH",
+"187 484 OFFCURVE",
+"184 484 OFFCURVE",
+"182 484 CURVE",
+"182 484 OFFCURVE",
+"185 497 OFFCURVE",
+"190 523 CURVE SMOOTH",
+"193 538 OFFCURVE",
+"196 551 OFFCURVE",
+"196 562 CURVE SMOOTH",
+"196 572 OFFCURVE",
+"191 577 OFFCURVE",
+"180 577 CURVE SMOOTH",
+"168 577 OFFCURVE",
+"159 564 OFFCURVE",
+"152 538 CURVE SMOOTH",
+"147 520 OFFCURVE",
+"145 502 OFFCURVE",
+"142 484 CURVE",
+"63 484 LINE",
+"75 505 OFFCURVE",
+"90 528 OFFCURVE",
+"106 553 CURVE SMOOTH",
+"115 567 OFFCURVE",
+"130 590 OFFCURVE",
+"152 619 CURVE SMOOTH",
+"159 628 OFFCURVE",
+"162 635 OFFCURVE",
+"162 641 CURVE SMOOTH",
+"162 653 OFFCURVE",
+"156 659 OFFCURVE",
+"145 659 CURVE SMOOTH",
+"138 659 OFFCURVE",
+"131 653 OFFCURVE",
+"122 641 CURVE SMOOTH",
+"55 551 OFFCURVE",
+"20 496 OFFCURVE",
+"20 475 CURVE SMOOTH",
+"20 456 OFFCURVE",
+"44 446 OFFCURVE",
+"92 446 CURVE SMOOTH",
+"97 446 OFFCURVE",
+"104 446 OFFCURVE",
+"113 447 CURVE SMOOTH",
+"122 448 OFFCURVE",
+"129 448 OFFCURVE",
+"134 448 CURVE",
+"126 416 OFFCURVE",
+"122 398 OFFCURVE",
+"122 395 CURVE SMOOTH",
+"122 382 OFFCURVE",
+"129 376 OFFCURVE",
+"142 376 CURVE",
+"142 376 LINE"
+);
+}
+);
+width = 253;
+}
+);
+leftMetricsKey = four;
+rightMetricsKey = four;
+unicode = 2074;
+},
+{
 glyphname = fraction;
 lastChange = "2019-11-30 15:48:57 +0000";
 layers = (
@@ -42527,6 +42629,17 @@ width = 150;
 unicode = 0020;
 },
 {
+glyphname = nbspace;
+layers = (
+{
+layerId = "F775FF55-200A-4C1E-99C8-011CF6498227";
+width = 150;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+},
+{
 glyphname = cent;
 lastChange = "2019-11-30 15:48:57 +0000";
 layers = (
@@ -43393,6 +43506,41 @@ width = 436;
 );
 note = yen;
 unicode = 00A5;
+},
+{
+glyphname = divisionslash;
+lastChange = "2019-12-22 14:03:45 +0000";
+layers = (
+{
+layerId = "F775FF55-200A-4C1E-99C8-011CF6498227";
+paths = (
+{
+closed = 1;
+nodes = (
+"-75 6 LINE",
+"-56 -1 OFFCURVE",
+"-35 10 OFFCURVE",
+"-27 28 CURVE",
+"153 522 LINE SMOOTH",
+"160 542 OFFCURVE",
+"150 564 OFFCURVE",
+"130 570 CURVE",
+"130 571 LINE",
+"110 578 OFFCURVE",
+"89 568 OFFCURVE",
+"81 548 CURVE SMOOTH",
+"-98 54 LINE SMOOTH",
+"-105 35 OFFCURVE",
+"-96 13 OFFCURVE",
+"-76 6 CURVE",
+"-76 6 LINE"
+);
+}
+);
+width = 55;
+}
+);
+unicode = 2215;
 },
 {
 glyphname = plus;
